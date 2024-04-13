@@ -11,6 +11,8 @@ Neste cenário foi relizado três análises solicitadas pelo cliente:
 
 ------------------------------------------------------------------
 
+![image](https://github.com/GuilhermeCDiniz/AnaliseVendas_SQL/assets/103524711/9544ac14-14c7-4af1-be22-72c3665ec045)
+
 Resultado identificando a situação dos clientes devedores/credores em relação ao seu limite de crédito:
 
 ![image](https://github.com/GuilhermeCDiniz/AnaliseVendas_SQL/assets/103524711/dc2e488c-b0d7-48d6-90ef-d31e1d4165c3)
