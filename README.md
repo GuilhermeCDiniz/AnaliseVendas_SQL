@@ -1,5 +1,5 @@
 # AnaliseVendas_SQL
-Análise em SQL de comportamento de vendas. Pude praticar e aplicar conceitos básicos mas bem relevantes para uma bom relatóriu. 
+Realizei uma análise em SQL do comportamento de vendas, onde pude praticar e aplicar conceitos básicos, porém bastante relevantes, para a elaboração de um relatório sólido
 
 Neste cenário foi relizado três análises solicitadas pelo cliente:
 
